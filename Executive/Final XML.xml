@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML test case -->
+<LectureNote course="CSE681">
+  <title id ="Ex1">XML Example #1</title>
+  <reference>
+    <!-- Book Information -->
+    <title>Programming Microsoft .Net</title>
+    <author>Jeff Prosise <note Company='Wintellect'></note></author>
+      <publisher type ="microsoft" location="syracuse" destination="interior">Microsoft Press</publisher>
+    <date>2002</date>
+    <page>608</page>
+  </reference>
+  <comment id ="Ex2">Description of PCDATA</comment>
+  <universities>
+   <college id="syr">Syracuse University</college>
+   <college id="utd">UT Dallas</college>
+  </universities>
+</LectureNote>

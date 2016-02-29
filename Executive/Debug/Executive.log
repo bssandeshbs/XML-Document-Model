@@ -1,0 +1,28 @@
+﻿Build started 9/1/2015 6:47:25 PM.
+     1>Project "E:\Spring 2015 Courses\CSE 687 - Object Oriented Design\Submissions\Project 2\XML Document Model\Executive\Executive.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Softwares\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt ..\DemoXMLDocument\XMLDocumentDemo.cpp ..\Display\Display.cpp ..\XmlDocument\ProcessFile.cpp ..\XmlDocument\XmlDocument.cpp ..\XmlElement\XmlElement.cpp ..\XMLParsing\Tokenizer.cpp ..\XMLParsing\xmlElementParts.cpp Executive.cpp
+         Executive.cpp
+         xmlElementParts.cpp
+         Tokenizer.cpp
+         XmlElement.cpp
+         XmlDocument.cpp
+         ProcessFile.cpp
+         Display.cpp
+         XMLDocumentDemo.cpp
+         Generating Code...
+       Link:
+         D:\Softwares\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Spring 2015 Courses\CSE 687 - Object Oriented Design\Submissions\Project 2\XML Document Model\Debug\Executive.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Spring 2015 Courses\CSE 687 - Object Oriented Design\Submissions\Project 2\XML Document Model\Debug\Executive.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Spring 2015 Courses\CSE 687 - Object Oriented Design\Submissions\Project 2\XML Document Model\Debug\Executive.lib" /MACHINE:X86 Debug\XMLDocumentDemo.obj
+         Debug\Display.obj
+         Debug\ProcessFile.obj
+         Debug\XmlDocument.obj
+         Debug\XmlElement.obj
+         Debug\Tokenizer.obj
+         Debug\xmlElementParts.obj
+         Debug\Executive.obj
+         Executive.vcxproj -> E:\Spring 2015 Courses\CSE 687 - Object Oriented Design\Submissions\Project 2\XML Document Model\Debug\Executive.exe
+     1>Done Building Project "E:\Spring 2015 Courses\CSE 687 - Object Oriented Design\Submissions\Project 2\XML Document Model\Executive\Executive.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.66

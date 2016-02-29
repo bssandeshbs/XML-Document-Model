@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?word document="test.doc"?>
+<!-- XML test case -->
+<LectureNote course="CSE681">
+  <title>XML Example #1</title>
+  <reference>
+    <title>    Programming Microsoft .Net     </title>
+    <author>Jeff Prosise <note Company='Wintellect'></note></author>
+  </reference>
+  <comment>Description of PCDATA</comment>
+</LectureNote>

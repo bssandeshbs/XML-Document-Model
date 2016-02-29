@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <!--XML test case-->
+  <LectureNote>
+    <title>
+      XML Example # 1
+      <MyLecture crs="CSE681">
+      </MyLecture>
+      <!--Book Library-->
+    </title>
+    <reference>
+      <title>
+        Programming Microsoft . Net
+      </title>
+      <author>
+        Jeff Prosise
+        <note Company="Wintellect">
+        </note>
+      </author>
+      <publisher type="microsoft" loct="syracuse" dest="interior">
+        Microsoft Press
+      </publisher>
+      <!--Content Information-->
+      <page section="lecture 4">
+        608
+      </page>
+    </reference>
+    <comment id="hi">
+      Description of PCDATA
+    </comment>
+    <universities>
+      <college id="syr">
+        Syracuse University
+      </college>
+      <college id="utd">
+        UT Dallas
+      </college>
+    </universities>
+  </LectureNote>
