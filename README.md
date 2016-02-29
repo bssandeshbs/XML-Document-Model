@@ -12,5 +12,6 @@ Your XML Framework:
 6. Shall provide the capability to add a child element to, and remove a child from, any element in the tree, found by id or tag. Addition returns a pointer to the added element. Removal returns a pointer to the parent from which the element was removed. Shall also provide the ability to add a root element to an empty document tree6.
 7. Shall, given a pointer to any element, provide a facility to return a std::vector containing all the name-value attribute pairs attached to that element. If the element has no attributes an empty std::vector is returned.
 8. Shall provide the ability to add or remove an attribute name-value pair from any element node.
+9. 
 9. Shall provide the capability to read an XML string or file and build the corresponding internal tree representation. Shall also provide the capability to write an XML string or file corresponding to the internal tree representation.
 10. Shall provide an executive module that accepts a command line argument specifying an XML file to parse, displays the corresponding tree structure, adds a child element with tag “testTag” to an element with id “testId” and display the resulting tree, then remove the added element and redisplay the tree. The executive shall repeat this demonstration
